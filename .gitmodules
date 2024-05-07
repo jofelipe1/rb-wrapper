@@ -1,0 +1,3 @@
+[submodule "ps-react-bootstrap"]
+	path = ps-react-bootstrap
+	url = git@github.com:ps-web-channel/ps-react-bootstrap.git
